@@ -1,13 +1,13 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+title: Themes Panda | Get Your Free Themes
+email: 
+description: Get Your Desired Premium Themes For Free
+baseurl: ""
+url: ""
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Themes Panda
 user_description: Some text about you.
 disqus_username: disqus_username
 
@@ -24,7 +24,7 @@ medium_username: medium_username
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 12
+paginate: 6
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 
@@ -38,6 +38,8 @@ plugins:
 links:
   - title: Home
     url: /
+  - title: Php
+    url: /php/
   - title: About
     url: /about/
   - title: Contact
